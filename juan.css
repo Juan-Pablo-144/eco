@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor {
+    width: 1200pX;
+    height: 1000pX;
+    background: #0c0c0e;
+    margin: 0.5em auto;
+    padding: 0.5em;
+ }
+#encabezado{
+    height: 33%;
+    background: #070707;
+    border-radius: 1em;
+    margin: 1em;
+}
+#contenido{
+    height: 30%;
+    background: #1ba81b;
+    border-radius: 1em;
+    margin: 1em;
+   
+
+}
